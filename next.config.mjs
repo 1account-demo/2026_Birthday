@@ -1,12 +1,4 @@
 /** @type {import('next').NextConfig} */
-const repo = "Birthday_2026";
-
-const nextConfig = {
-  output: "export",
-  basePath: `/${repo}`,
-  assetPrefix: `/${repo}/`,
-};
+const nextConfig = {};
 
 export default nextConfig;
-
-
